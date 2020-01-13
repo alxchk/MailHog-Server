@@ -13,10 +13,7 @@ require (
 	github.com/ian-kent/goose v0.0.0-20141221090059-c3541ea826ad
 	github.com/ian-kent/linkio v0.0.0-20170807205755-97566b872887
 	github.com/kr/pretty v0.2.0 // indirect
-	github.com/mailhog/MailHog v1.0.0
-	github.com/mailhog/MailHog-UI v1.0.0
 	github.com/mailhog/data v1.0.0
-	github.com/mailhog/http v1.0.0
 	github.com/mailhog/smtp v1.0.0
 	github.com/mailhog/storage v1.0.0
 	github.com/philhofer/fwd v1.0.0 // indirect
@@ -24,7 +21,6 @@ require (
 	github.com/stretchr/testify v1.4.0 // indirect
 	github.com/t-k/fluent-logger-golang v1.0.0 // indirect
 	github.com/tinylib/msgp v1.1.1 // indirect
-	golang.org/x/crypto v0.0.0-20200109152110-61a87790db17 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.2.7 // indirect
