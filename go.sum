@@ -22,6 +22,8 @@ github.com/ian-kent/linkio v0.0.0-20170807205755-97566b872887 h1:LPaZmcRJS13h+ig
 github.com/ian-kent/linkio v0.0.0-20170807205755-97566b872887/go.mod h1:aE63iKqF9rMrshaEiYZroUYFZLaYoTuA7pBMsg3lJoY=
 github.com/jtolds/gls v4.20.0+incompatible h1:xdiiI2gbIgH/gLH7ADydsJ1uDOEzR8yvV7C0MuV77Wo=
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
+github.com/kernle32dll/smtp v1.0.1-0.20200113143317-621239d9f8a3 h1:d6uVWXPznKrA3FvYWaSCrl7G+v8WJgCOx8FaZLiI0/k=
+github.com/kernle32dll/smtp v1.0.1-0.20200113143317-621239d9f8a3/go.mod h1:4Ap7ZD+GzElJsekwFk0y0SVnAetb8vdHt220TbSwD9Q=
 github.com/kr/pretty v0.2.0 h1:s5hAObm+yFO5uHYt5dYjxi2rXrsnmRpJx4OYvIWUaQs=
 github.com/kr/pretty v0.2.0/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
@@ -29,8 +31,6 @@ github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
 github.com/mailhog/data v1.0.0 h1:WuMDK3mslO5CSCqqb0igfvqMaD3YkOcbEkH//DYcPkI=
 github.com/mailhog/data v1.0.0/go.mod h1:tjR/iXRhbSUKHzAAMd99RygVaDB5rIDC/bmWc363MzU=
-github.com/mailhog/smtp v1.0.0 h1:2arZwkTMkyfJTGPf/XGOFnTRWXEGvn7h6K+4DG9mdws=
-github.com/mailhog/smtp v1.0.0/go.mod h1:GMrAdv1hXro38xj5dsWPAk5ZiXJHFx9t7W9Yqsk0XUM=
 github.com/mailhog/storage v1.0.0 h1:W8rKXFO8Rrh3LyGP3/nE+OIs9OekHVROWgO9yHSVUfk=
 github.com/mailhog/storage v1.0.0/go.mod h1:4EAUf5xaEVd7c/OhvSxOOwQ66jT6q2er+BDBQ0EVrew=
 github.com/philhofer/fwd v1.0.0 h1:UbZqGr5Y38ApvM/V/jEljVxwocdweyH+vmYvRPBnbqQ=

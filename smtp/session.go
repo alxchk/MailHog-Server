@@ -9,8 +9,8 @@ import (
 
 	"github.com/ian-kent/linkio"
 	"github.com/kernle32dll/MailHog-Server/monkey"
+	"github.com/kernle32dll/smtp"
 	"github.com/mailhog/data"
-	"github.com/mailhog/smtp"
 	"github.com/mailhog/storage"
 )
 
