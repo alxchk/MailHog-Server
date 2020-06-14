@@ -54,7 +54,7 @@ func Accept(remoteAddress string, conn io.ReadWriteCloser, tlsUpgrader func() io
 	proto.ValidateSenderHandler = session.validateSender
 	proto.ValidateRecipientHandler = session.validateRecipient
 	proto.ValidateAuthenticationHandler = session.validateAuthentication
-	proto.GetAuthenticationMechanismsHandler = func() []string { return []string{"PLAIN"} }
+	proto.GetAuthenticationMechanismsHandler = func() []string { return []string{"PLAIN LOGIN"} }
 
 	if tlsUpgrader != nil {
 		proto.TLSHandler = func(done func(ok bool)) (errorReply *smtp.Reply, callback func(), ok bool) {
