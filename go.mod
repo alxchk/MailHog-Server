@@ -1,4 +1,4 @@
-module github.com/kernle32dll/MailHog-Server
+module github.com/alxchk/MailHog-Server
 
 go 1.11
 

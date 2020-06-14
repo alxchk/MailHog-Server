@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/ian-kent/envconf"
-	"github.com/kernle32dll/MailHog-Server/monkey"
+	"github.com/alxchk/MailHog-Server/monkey"
 	"github.com/mailhog/data"
 	"github.com/mailhog/storage"
 )

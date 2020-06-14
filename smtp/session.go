@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/ian-kent/linkio"
-	"github.com/kernle32dll/MailHog-Server/monkey"
-	"github.com/kernle32dll/smtp"
+	"github.com/alxchk/MailHog-Server/monkey"
+	"github.com/alxchk/smtp"
 	"github.com/mailhog/data"
 	"github.com/mailhog/storage"
 )

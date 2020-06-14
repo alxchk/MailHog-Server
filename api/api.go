@@ -4,7 +4,7 @@ import (
 	gohttp "net/http"
 
 	"github.com/gorilla/pat"
-	"github.com/kernle32dll/MailHog-Server/config"
+	"github.com/alxchk/MailHog-Server/config"
 )
 
 func CreateAPI(conf *config.Config, r gohttp.Handler) {
