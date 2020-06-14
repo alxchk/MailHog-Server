@@ -1,3 +1,5 @@
+github.com/alxchk/smtp v1.0.1-0.20200614123026-9f35f12ec465 h1:elxVKeEWeZ+bW7rAOUSNdg4WAB8tGXQWB5qzc3D4730=
+github.com/alxchk/smtp v1.0.1-0.20200614123026-9f35f12ec465/go.mod h1:CH1pd/cFVtr3bZrgLUDH7EQh9yC/jswPKYcWwY6TE0s=
 github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 h1:DDGfHa7BWjL4YnC6+E63dPcxHo2sUxDIu8g3QgEJdRY=
 github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869/go.mod h1:Ekp36dRnpXw/yCqJaO+ZrUyxD+3VXMFFr56k5XYrpB4=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
